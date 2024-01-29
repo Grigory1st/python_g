@@ -1,1 +1,2 @@
 # python_g
+Hello, it's python
